@@ -11447,7 +11447,7 @@ header.masthead h1, header.masthead .h1 {
 }
 #portfolio .portfolio-box img {
   height: 400px;
-  width: 700px;
-  object-fit: cover;
+  width: 500px;
+  object-fit:fill;
   /* object-position: center; */
 }
