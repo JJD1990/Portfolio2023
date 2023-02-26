@@ -11448,6 +11448,6 @@ header.masthead h1, header.masthead .h1 {
 #portfolio .portfolio-box img {
   height: 400px;
   width: 500px;
-  object-fit:fill;
+  object-fit:cover;
   /* object-position: center; */
 }
