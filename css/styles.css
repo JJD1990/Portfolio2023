@@ -11466,3 +11466,11 @@ header.masthead h1, header.masthead .h1 {
   left: 0;
   z-index: 0;
   }
+
+  .contact-link:hover{
+    scale: 125%;
+  }
+  
+  /* .project-card:hover{
+    scale: 200%;
+  } */
